@@ -1,4 +1,4 @@
-## Hi, I'm Chih-Hui 👋
+## Hi, I'm Chih-Hui(Daisy) 👋
 *Bioinformatics PSM · Temple University ('26)*
 
 Computational biology researcher building ML-driven pipelines  
