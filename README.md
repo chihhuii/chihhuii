@@ -23,7 +23,7 @@ Currently @ Carnevale Lab — protein binder design against membrane targets.
 
 ---
 
-📫 chihhui0312@gmail.com · [LinkedIn](www.linkedin.com/in/chih-hui-wang-daisy00)
+📫 chihhui0312@gmail.com · [LinkedIn](https://www.linkedin.com/in/chih-hui-wang-daisy00)
 
 <!--
 **chihhuii/chihhuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
